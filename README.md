@@ -1,4 +1,4 @@
-Blood Bank Management System – Modular
+Blood Bank Management System 
 
 A modular, production-ready React app for managing donors, inventory, and blood requests with full CRUD support.
 
