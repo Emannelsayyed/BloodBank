@@ -31,7 +31,6 @@ Quick Start
 cd bloodbank-modular
 npm install
 npm start
-# Opens at http://localhost:3000
 
 Usage
 Dashboard
